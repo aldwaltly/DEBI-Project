@@ -1,0 +1,9 @@
+digest: 7e8b3a32
+name: dataset
+profile: '{"features_shape": [16000, 14], "features_size": 224000, "features_nbytes":
+  1792000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 14]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Administrator", "mlflow.source.name": "c:\\ProgramData\\miniconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
