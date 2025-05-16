@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/77377b2d8a564c068db018b7b08c2894/artifacts
+end_time: 1747384433726
+entry_point_name: ''
+experiment_id: '369663659415492810'
+lifecycle_stage: active
+run_id: 77377b2d8a564c068db018b7b08c2894
+run_name: Logistic Regression
+run_uuid: 77377b2d8a564c068db018b7b08c2894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384417430
+status: 3
+tags: []
+user_id: Administrator

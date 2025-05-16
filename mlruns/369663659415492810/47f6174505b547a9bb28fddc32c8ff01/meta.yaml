@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/47f6174505b547a9bb28fddc32c8ff01/artifacts
+end_time: 1747384647899
+entry_point_name: ''
+experiment_id: '369663659415492810'
+lifecycle_stage: active
+run_id: 47f6174505b547a9bb28fddc32c8ff01
+run_name: resilient-mule-28
+run_uuid: 47f6174505b547a9bb28fddc32c8ff01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384433729
+status: 3
+tags: []
+user_id: Administrator

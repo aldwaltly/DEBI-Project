@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747384674130
+current_stage: None
+description: null
+last_updated_timestamp: 1747384674130
+name: XGBoost_Model
+run_id: 50e227a0dc274b5b81faea096e810074
+run_link: null
+source: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/50e227a0dc274b5b81faea096e810074/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/50e227a0dc274b5b81faea096e810074/artifacts/model
+user_id: null
+version: 3
