@@ -1,0 +1,13 @@
+Pipeline(steps=[('preprocessing',
+                 ColumnTransformer(remainder='passthrough',
+                                   transformers=[('cat',
+                                                  OneHotEncoder(handle_unknown='ignore'),
+                                                  ['gender',
+                                                   'smoking_history']),
+                                                 ('num', StandardScaler(),
+                                                  ['age', 'hypertension',
+                                                   'heart_disease', 'bmi',
+                                                   'HbA1c_level',
+                                                   'blood_glucose_level'])])),
+                ('smote', SMOTE(random_state=42)),
+                ('classifier', RandomForestClassifier(random_state=42))])

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/38e54efd5ccd4e4e9933a2b700f8656e/artifacts
+end_time: 1747377869971
+entry_point_name: ''
+experiment_id: '369663659415492810'
+lifecycle_stage: active
+run_id: 38e54efd5ccd4e4e9933a2b700f8656e
+run_name: Random Forest
+run_uuid: 38e54efd5ccd4e4e9933a2b700f8656e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747377604920
+status: 3
+tags: []
+user_id: Administrator

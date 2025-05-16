@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747368994231
+current_stage: None
+description: null
+last_updated_timestamp: 1747368994231
+name: Logistic_Regression_Model
+run_id: b8228c3bd7d44b35bb005efb01738985
+run_link: null
+source: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/b8228c3bd7d44b35bb005efb01738985/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/b8228c3bd7d44b35bb005efb01738985/artifacts/model
+user_id: null
+version: 1

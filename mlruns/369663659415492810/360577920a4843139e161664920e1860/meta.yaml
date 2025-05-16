@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/360577920a4843139e161664920e1860/artifacts
+end_time: 1747369492471
+entry_point_name: ''
+experiment_id: '369663659415492810'
+lifecycle_stage: active
+run_id: 360577920a4843139e161664920e1860
+run_name: XGBoost
+run_uuid: 360577920a4843139e161664920e1860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747369469747
+status: 3
+tags: []
+user_id: Administrator

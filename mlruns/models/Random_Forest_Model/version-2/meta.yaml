@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747377869957
+current_stage: None
+description: null
+last_updated_timestamp: 1747377869957
+name: Random_Forest_Model
+run_id: 38e54efd5ccd4e4e9933a2b700f8656e
+run_link: null
+source: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/38e54efd5ccd4e4e9933a2b700f8656e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/38e54efd5ccd4e4e9933a2b700f8656e/artifacts/model
+user_id: null
+version: 2

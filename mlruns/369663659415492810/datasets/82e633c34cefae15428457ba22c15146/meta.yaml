@@ -1,0 +1,12 @@
+digest: 14f5ad91
+name: dataset
+profile: '{"num_rows": 76091, "num_elements": 608728}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "gender", "required": true},
+  {"type": "double", "name": "age", "required": true}, {"type": "long", "name": "hypertension",
+  "required": true}, {"type": "long", "name": "heart_disease", "required": true},
+  {"type": "string", "name": "smoking_history", "required": true}, {"type": "double",
+  "name": "bmi", "required": true}, {"type": "double", "name": "HbA1c_level", "required":
+  true}, {"type": "long", "name": "blood_glucose_level", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Administrator", "mlflow.source.name": "c:\\ProgramData\\miniconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
