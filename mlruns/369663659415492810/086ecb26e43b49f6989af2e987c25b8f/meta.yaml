@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Material/depi%20project/DEBI-Project/mlruns/369663659415492810/086ecb26e43b49f6989af2e987c25b8f/artifacts
+end_time: 1747377863102
+entry_point_name: ''
+experiment_id: '369663659415492810'
+lifecycle_stage: active
+run_id: 086ecb26e43b49f6989af2e987c25b8f
+run_name: gentle-hog-879
+run_uuid: 086ecb26e43b49f6989af2e987c25b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747377604920
+status: 3
+tags: []
+user_id: Administrator

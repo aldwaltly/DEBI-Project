@@ -1,0 +1,66 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "gender",
+      "age",
+      "hypertension",
+      "heart_disease",
+      "smoking_history",
+      "bmi",
+      "HbA1c_level",
+      "blood_glucose_level"
+    ],
+    "data": [
+      [
+        "Female",
+        19.0,
+        0,
+        0,
+        "not current",
+        31.48,
+        5.8,
+        80
+      ],
+      [
+        "Male",
+        58.0,
+        0,
+        0,
+        "former",
+        27.32,
+        4.5,
+        145
+      ],
+      [
+        "Male",
+        64.0,
+        0,
+        0,
+        "current",
+        27.32,
+        5.0,
+        140
+      ],
+      [
+        "Female",
+        52.0,
+        0,
+        0,
+        "never",
+        24.69,
+        3.5,
+        140
+      ],
+      [
+        "Female",
+        18.0,
+        0,
+        0,
+        "never",
+        27.32,
+        4.0,
+        200
+      ]
+    ]
+  }
+}
