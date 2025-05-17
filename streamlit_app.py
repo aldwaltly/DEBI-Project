@@ -15,7 +15,7 @@ from imblearn.over_sampling import SMOTE
 # Load data
 @st.cache_data
 def load_data():
-    df=pd.read_csv(r"D:\Study\DEPI\Project\DEBI-Project\diabetes_prediction_dataset_cleaned.csv")
+    df=pd.read_csv(r"D:\Study\DEPI\Project\DEBI-Project\Data\diabetes_prediction_dataset_cleaned.csv")
     return df
 
 df = load_data()
